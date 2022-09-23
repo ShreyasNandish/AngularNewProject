@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angularnew';
-  imgUrl ="../assets/Bridgelabzlogo.jpg";
+  imgUrl ="../assets/download.png";
   Url="https://www.youtube.com";
 
   userName:string = "";

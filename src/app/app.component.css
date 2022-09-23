@@ -2,8 +2,12 @@ div{
     text-align: center;
     font-size: x-large;
 }
+.img{
+   
+    margin: 0 auto;
+    width: 25%;
+}
+
 .error-output{
-    margin-left: 15px;
-    font-size: 10px;
     color: red;
 }
